@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\MyProject\\ApiDemos\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ar\\values-ar.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\hongzhen\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\7584885189377968cb795c2363d4ae9b\\res\\values-ar\\values-ar.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}
